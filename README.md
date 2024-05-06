@@ -1,2 +1,2 @@
-# CS106.Heuristics-A-search
+# CS106.Heuristics-A-star-search
 Homework 2
