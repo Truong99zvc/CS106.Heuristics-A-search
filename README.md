@@ -1,2 +1,2 @@
-# CS106.Heuristics-A-star-search
-Homework 2
+### How to run
+```python3 Sokoban.py```
